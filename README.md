@@ -18,23 +18,23 @@ image_links
 
 Step-1
 Data Cleaning
-At first the dataset was cleaned properly i.e. by 
-removing null values from each rows.
-removing Duplicate entries.
-Checking for errors 
+      At first the dataset was cleaned properly i.e. by 
+      removing null values from each rows.
+      removing Duplicate entries.
+      Checking for errors 
 
 Step-2
-Pivot table function was used to create charts for Data analysis and Visualizations
+      Pivot table function was used to create charts for Data analysis and Visualizations
 
 Chart Names
 
-1.Top 10 Seller by Product Title
-2.Top 10 Products Category 2 available in the  Inventory
-3.Top 10 Most Expensive Product Categories available in the Inventory\
-4.Average Consumer Rating for Product Category 1				
+      1.Top 10 Seller by Product Title
+      2.Top 10 Products Category 2 available in the  Inventory
+      3.Top 10 Most Expensive Product Categories available in the Inventory\
+      4.Average Consumer Rating for Product Category 1				
 
 Step-3
-For better visualisation, a dashboard was developed.
+      For better visualisation, a dashboard was developed.
 
 
 
