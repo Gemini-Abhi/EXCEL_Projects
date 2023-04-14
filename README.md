@@ -25,8 +25,9 @@ Checking for errors
 
 Step-2
 Pivot table function was used to create charts for Data analysis and Visualizations
+
 Chart Names
-*******************
+
 1.Top 10 Seller by Product Title
 2.Top 10 Products Category 2 available in the  Inventory
 3.Top 10 Most Expensive Product Categories available in the Inventory\
