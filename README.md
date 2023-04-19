@@ -28,10 +28,11 @@ Step-2
 
 Chart Names
 
-      1.Top 10 Seller by Product Title
-      2.Top 10 Products Category 2 available in the  Inventory
-      3.Top 10 Most Expensive Product Categories available in the Inventory\
-      4.Average Consumer Rating for Product Category 1				
+      1.Count of Sellers by Product availability.
+      2.Average Dicount by Product category.
+      3.Top 10 Most Expensive Product Categories available in the Inventory.
+      4.Average Consumer Rating for Product Category
+      5.Top 10 seller by Cusotmer Rating
 
 Step-3
       For better visualisation, a dashboard was developed.
