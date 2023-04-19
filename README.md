@@ -1,5 +1,5 @@
-# EXCEL_Projects
-Flipkart Inventory Project
+# FLIPKART INVENTORY PROJECT DASHBOARD
+
 
 This dataset contains Flipkart Inventory details.
 Coloumns present are as follows:
