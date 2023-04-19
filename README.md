@@ -29,7 +29,7 @@ Step-2
 Chart Names
 
       1.Count of Sellers by Product availability.
-      2.Average Dicount by Product category.
+      2.Average Discount by Product category.
       3.Top 10 Most Expensive Product Categories available in the Inventory.
       4.Average Consumer Rating for Product Category
       5.Top 10 seller by Cusotmer Rating
